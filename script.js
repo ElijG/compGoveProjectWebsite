@@ -32,7 +32,7 @@ const products = [
         id: 5,
         name: hoodie",
         price: 4.99,
-        images: ["images/product5.png","images/product5-1.png"],
+        images: ["images/product5.png","images/product5-2.png"],
         description: "Whatley for Senate MAGA hoodie"
     }
     
@@ -102,4 +102,5 @@ if (productId) {
     }
 
 }
+
 
