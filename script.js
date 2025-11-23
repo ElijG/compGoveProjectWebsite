@@ -27,8 +27,8 @@ const products = [
         price: 4.99,
         images: ["images/product4.png"],
         description: "Whatley for Senate sticker"
-    }
-     {
+    },
+    {
         id: 5,
         name: hoodie",
         price: 4.99,
@@ -102,3 +102,4 @@ if (productId) {
     }
 
 }
+
