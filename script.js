@@ -28,6 +28,14 @@ const products = [
         images: ["images/product4.png"],
         description: "Whatley for Senate sticker"
     }
+     {
+        id: 5,
+        name: hoodie",
+        price: 4.99,
+        images: ["images/product5.png","images/product5-1.png"],
+        description: "Whatley for Senate MAGA hoodie"
+    }
+    
 ];
 
 
@@ -92,4 +100,5 @@ if (productId) {
         // Initialize slideshow with the first image
         showImage(currentIndex);
     }
+
 }
