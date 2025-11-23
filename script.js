@@ -19,7 +19,7 @@ const products = [
         name: "Baby T-Shirt",
         price: 19.99,
         images: ["images/product3.png", "images/product3-2.png"],
-        description: "Warm and cozy hoodie with a modern design."
+        description: "Warm and cozy baby tee with a modern design."
     },
     {
         id: 4,
@@ -92,4 +92,5 @@ if (productId) {
         // Initialize slideshow with the first image
         showImage(currentIndex);
     }
+
 }
